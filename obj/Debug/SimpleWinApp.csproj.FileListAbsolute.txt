@@ -1,0 +1,11 @@
+C:\Users\ganesh\source\repos\SimpleWinApp\bin\Debug\SimpleWinApp.exe.config
+C:\Users\ganesh\source\repos\SimpleWinApp\bin\Debug\SimpleWinApp.exe
+C:\Users\ganesh\source\repos\SimpleWinApp\bin\Debug\SimpleWinApp.pdb
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.csproj.AssemblyReference.cache
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.Properties.Resources.resources
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.Registration.resources
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.csproj.GenerateResource.cache
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.exe
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.pdb
+C:\Users\ganesh\source\repos\SimpleWinApp\obj\Debug\SimpleWinApp.Home.resources
