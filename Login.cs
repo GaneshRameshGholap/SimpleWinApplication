@@ -13,7 +13,7 @@ using System.Windows.Forms;
 namespace SimpleWinApp
 {
     public partial class Login : Form
-    {
+    {  //trying revert code 
         SqlCommand cmd;
         SqlConnection cn;
         SqlDataReader dr;
