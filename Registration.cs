@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace SimpleWinApp
 {
-    public partial class Registration : Form1
+    public partial class Registration : Form
     {
         SqlCommand cmd;
         SqlConnection cn;
