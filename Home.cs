@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SimpleWinApp
 {
-    public partial class Home : Form
+    public partial class Home2 : Form1
     {
         public Home()
         {
